@@ -1,2 +1,2 @@
 # conocimientos
-aqui guardo muchos de los conocimientos adquirdos
+carpeta personal para guardar contenidos de cursos etc
